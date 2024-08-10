@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aspendas
-- 👀 I’m interested in Flutter Development.
-- 🌱 I’m currently learning React.js
+- I play tennis 🎾 and write code.
+- 👀 I’m using Flutter and SwiftUI on mobile. React.js and Vue.js on frontend.
 - 📫 How to reach me umutyasin2001@gmail.com
 
 <!---
